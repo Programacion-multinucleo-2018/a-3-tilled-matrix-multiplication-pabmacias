@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define SIZE 2000
+#define SIZE 1000
 #define TILE 32
 
 void initialData(float *ip, const int size)
